@@ -1,0 +1,24 @@
+Passo a passo: 
+
+1. **Criar um Copilot em Branco**:
+   - Abra o Copilot Studio e clique em "Novo Projeto".
+   - Escolha "Copilot em Branco" como template e dê um nome ao seu projeto.
+   - Clique em "Criar" para iniciar o projeto.
+
+2. **Customizar um Tópico**:
+   - No menu lateral, selecione "Tópicos".
+   - Clique em "Novo Tópico" e dê um nome.
+   - Adicione descrições, perguntas e respostas relacionadas ao tópico.
+   - Salve as alterações.
+
+3. **Personalizar uma Mensagem de Erro**:
+   - Vá para "Configurações" no menu lateral.
+   - Selecione "Mensagens de Erro".
+   - Edite a mensagem padrão ou crie uma nova personalizada.
+   - Salve as alterações.
+
+4. **Aumentar e Diminuir a Qualidade da Resposta com GenAI**:
+   - Nas configurações do seu Copilot, vá para "Qualidade de Resposta".
+   - Ajuste o nível de detalhe e precisão usando as opções disponíveis.
+   - Teste diferentes configurações até encontrar o equilíbrio desejado.
+
